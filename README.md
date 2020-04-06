@@ -1,2 +1,2 @@
 # flexo-print
-# per project
+# pet project
