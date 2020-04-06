@@ -1,0 +1,35 @@
+.current {
+        margin-top: 10px;
+        padding: 0 10px;
+        font-size: 14px;
+}
+.current div {
+        height: 100px;
+}
+.current b {
+        display:inline-block;
+        border: 3px solid #ffc700;
+        padding: 5px;
+        font-size: 30px;
+}
+.t2 b {
+        border: 3px solid #3bd100;
+}
+.t3 b {
+        border: 3px solid #ff0000;
+}
+.t4 b {
+        border: 3px solid #ee00ff;
+}
+.current .time {
+        padding-top: 20px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 18px;
+}
+.selectperiod {
+        padding: 5px 30px;
+}
+.selectperiod div{
+        text-align:center;
+}
